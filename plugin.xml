@@ -5,7 +5,7 @@
   <name>Universal Links Plugin</name>
   <description>
     Cordova plugin to add in your application support for Universal Links (iOS 9) and Deep Links (Android).
-    Basically, open application through the link in the browser.
+    Basically, open application through the link in the browser.  Updated for cordova 7
   </description>
   <license>MIT</license>
   <keywords>cordova,links,universal</keywords>
